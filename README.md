@@ -16,6 +16,7 @@ End-to-end vendor analytics project that ingests raw inventory + purchasing data
 ## Power BI Dashboard (Preview)
 
 
-- https://github.com/maisha1209/Vendor-Performance-Analysis/blob/main/assets/screenshots/Bar%20charts.png
+- https://github.com/maisha1209/Vendor-Performance-Analysis/tree/main/assets/screenshots
+  
 
 
